@@ -1,0 +1,4 @@
+I decided to stash backup screenshots of countries we've programmed, as an emergency usage.
+This is just in case the code somehow breaks and decides not to work the day of the presentation.
+The last thing we need is us being unable to show the data.
+- Zack
